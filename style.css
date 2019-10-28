@@ -1,0 +1,22 @@
+body{
+    background-color: lightgreen;
+    text-align: center;
+    background-image: url("bg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: rgb(110, 44, 46);   
+    margin:0;
+    padding:10px;
+
+}
+
+h2{
+    color: #454546;
+    padding:5px;
+    margin:5px;
+    
+}
+
